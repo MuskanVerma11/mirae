@@ -3,8 +3,6 @@
 
 ### 🌱 Project mirae is an app that motivates and helps users to protect the Earth. <br/>
 
-**📺 Youtube introduce ⬇️Click⬇️** <br/>
-[![youtube link](https://github.com/Sungwooo/mirae/blob/main/readme%20image/youtube%20thumbnail.png?raw=true)](https://www.youtube.com/watch?v=nx7B3li-cfs)
 <br/><br/>
 Project mirae is designed to help users preserve the environment.
 When users find trash, it provides information about the trash and allows them to directly mark the trash location. As data accumulates, we can see where the trash is in the world and help us clear it up. Users can read UN news and perform environmental challenges.
